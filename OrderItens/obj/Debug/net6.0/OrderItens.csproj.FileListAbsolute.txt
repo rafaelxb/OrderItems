@@ -1,0 +1,15 @@
+C:\Users\rfxba\source\repos\OrderItens\OrderItens\obj\Debug\net6.0\OrderItens.csproj.AssemblyReference.cache
+C:\Users\rfxba\source\repos\OrderItens\OrderItens\obj\Debug\net6.0\OrderItens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rfxba\source\repos\OrderItens\OrderItens\obj\Debug\net6.0\OrderItens.AssemblyInfoInputs.cache
+C:\Users\rfxba\source\repos\OrderItens\OrderItens\obj\Debug\net6.0\OrderItens.AssemblyInfo.cs
+C:\Users\rfxba\source\repos\OrderItens\OrderItens\obj\Debug\net6.0\OrderItens.csproj.CoreCompileInputs.cache
+C:\Users\rfxba\source\repos\OrderItens\OrderItens\bin\Debug\net6.0\OrderItens.exe
+C:\Users\rfxba\source\repos\OrderItens\OrderItens\bin\Debug\net6.0\OrderItens.deps.json
+C:\Users\rfxba\source\repos\OrderItens\OrderItens\bin\Debug\net6.0\OrderItens.runtimeconfig.json
+C:\Users\rfxba\source\repos\OrderItens\OrderItens\bin\Debug\net6.0\OrderItens.dll
+C:\Users\rfxba\source\repos\OrderItens\OrderItens\bin\Debug\net6.0\OrderItens.pdb
+C:\Users\rfxba\source\repos\OrderItens\OrderItens\obj\Debug\net6.0\OrderItens.dll
+C:\Users\rfxba\source\repos\OrderItens\OrderItens\obj\Debug\net6.0\refint\OrderItens.dll
+C:\Users\rfxba\source\repos\OrderItens\OrderItens\obj\Debug\net6.0\OrderItens.pdb
+C:\Users\rfxba\source\repos\OrderItens\OrderItens\obj\Debug\net6.0\OrderItens.genruntimeconfig.cache
+C:\Users\rfxba\source\repos\OrderItens\OrderItens\obj\Debug\net6.0\ref\OrderItens.dll
